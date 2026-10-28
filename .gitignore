@@ -1,0 +1,11 @@
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+config.js
+config.local.js
+
+# Local development and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
